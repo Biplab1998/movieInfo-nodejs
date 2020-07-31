@@ -1,0 +1,25 @@
+#searchh1{
+    margin-top: 20%;
+}
+
+body{
+    background: whitesmoke;
+    font-family: 'Courier New';
+}
+
+.card-title{
+    font-family: Georgia;
+}
+
+.card{
+    margin-left: 12.5%;
+}
+
+.card-img{
+    height: 24rem;
+}
+
+#search-heading{
+    margin: 3rem 0 2rem 12.5%;
+    font-weight: 700;
+}
